@@ -1,0 +1,15 @@
+---
+title: Proyecto Web
+subtitle: Construimos tu aplicatibo web
+layout: default
+modal-id: 1
+date: 2024-07-14
+img: 600x338.png
+thumbnail: 600x338.png
+alt: image-alt
+project-date: Julio 2024
+client: Start Bootstrap
+category: Web Development
+description: Este es mi proyecto desarrollado en Jekyll, HTML, CSS, JS, PHP
+
+---
